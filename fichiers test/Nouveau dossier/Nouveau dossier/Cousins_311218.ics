@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR 
+PRODID:-//Cousins//Ile de France
+VERSION:2.0 
+BEGIN:VEVENT 
+URL:http://nouvelan.com
+DTSTART:311218
+DTEND:311218
+SUMMARY:Nouvel an
+LOCATION:Bessancourt\, Maison\, France
+END:VEVENT 
+END:VCALENDAR 
+

@@ -1,0 +1,12 @@
+BEGIN:VCARD 
+VERSION:3.0 
+N:CHOLLET;Alexis;;Etudiant; 
+FN:Alexis CHOLLET
+ORG:Université de Cergy Pontoise
+TITLE:Monsieur
+TEL;TYPE=Portable,VOICE:9876543210
+ADR;TYPE=Maison,PREF:;;2nd Allée;Ville;Ile de France;95000;France
+LABEL;TYPE=Maison,PREF:2nd Allée Ville,Ile de France 95000 France
+EMAIL:alexischollet@gmail.com
+END:VCARD 
+

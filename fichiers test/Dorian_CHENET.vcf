@@ -1,0 +1,12 @@
+BEGIN:VCARD 
+VERSION:3.0 
+N:CHENET;Dorian;;Student; 
+FN:Dorian CHENET
+ORG:UCP
+TITLE:Mr
+TEL;TYPE=Home,VOICE:0123456789
+ADR;TYPE=Home,PREF:;;1er Rue;Bessancourt;Ile de France;95550;France
+LABEL;TYPE=Home,PREF:1er Rue Bessancourt,Ile de France 95550 France
+EMAIL:chenetdorian@gmail.com
+END:VCARD 
+

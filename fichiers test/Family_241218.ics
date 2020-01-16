@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR 
+PRODID:-//Family//Ile de France
+VERSION:2.0 
+BEGIN:VEVENT 
+URL:http://noel.com
+DTSTART:241218
+DTEND:241218
+SUMMARY:Réveillon de noël
+LOCATION:Bessancourt\, Home\, France
+END:VEVENT 
+END:VCALENDAR 
+
